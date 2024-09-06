@@ -1,0 +1,64 @@
+.bag-image{
+    background-image: url(../image/bag\ image.png);
+   
+    
+}
+@media (main-width:0px)and(main-width:700px){
+    #med{
+        display: none
+    }
+}
+.nnn{
+    outline: none;
+    height: 45px;
+    width: 450px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid #F24C3D;
+}
+.nn{
+    outline: none;
+    border-radius: 7px;
+    height: 180px;
+    width: 450px;
+    margin-bottom: 10px;
+    border: 1px solid #F24C3D;
+
+}
+.ddd{
+    width: 200px;
+    height: 60px;
+    border-radius: 7px;
+    border: none;background-color: #F24C3D;
+    margin-bottom: 20px;
+    
+}
+.sd{
+    display: flex;
+    justify-content: center;
+}
+.lin{
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+.lin:hover{
+    color: #F24C3D;
+}
+.ssf{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #F24C3D ;
+    background-color: transparent;
+    outline: none;
+}
+.ssc{
+    width: 100px;
+    height: 40px;
+    background-color: #F24C3D;
+    color: aliceblue;
+    font-weight: 900;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
